@@ -1,0 +1,1 @@
+{"optimal_params": {"svm__C": 1.5, "svm__kernel": "rbf"}, "optimal_accuracy": 0.8278083267871171}
