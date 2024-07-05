@@ -1,0 +1,1 @@
+{"optimal_params": {"perceptron__eta0": 0.01, "perceptron__max_iter": 50}, "optimal_accuracy": 0.7431483870967742}

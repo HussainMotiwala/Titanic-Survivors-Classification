@@ -1,0 +1,1 @@
+{"optimal_params": {"knn__metric": "euclidean", "knn__n_neighbors": 9, "knn__p": 1.5, "knn__weights": "uniform"}, "optimal_accuracy": 0.8121806451612903}
